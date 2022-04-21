@@ -117,7 +117,8 @@
   - LSTM
 
 <a href="https://github.com/" target="_blank">Yue Hong</a><br/>
-- *to be completed*
+- Contributed to Exploratory Data Analysis part (Visualisation)
+- Presentation Slides
 
 <a href="https://github.com/" target="_blank">Jared Chan</a><br/>
 - *to be completed*
