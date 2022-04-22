@@ -9,8 +9,6 @@
 
 ---
 
-<br/>
-
 #### 🛠️ Installation and Set Up
 
   - Clone repository
@@ -24,11 +22,11 @@
     ```
 
 ---
-<br/>
 
 <details>
 <summary>📂 Project Structure</summary>
-
+<br/>
+  
 ```
 📦crypto-genie
  ┣ 📂data
@@ -47,18 +45,13 @@
  ```
 
 
- `/data` - stores all the collected data to be utilized <br/>
- `/metrics` - contains the exported measurement of accuracy & efficacy<br/> 
- `/models` - contains the exported pre-trained models<br/>
+ [`/data`](./data) - stores all the collected data to be utilized <br/>
+ [`/metrics`](./metrics) - contains the exported measurement of accuracy & efficacy<br/> 
+ [`/models`](./models) - contains the exported pre-trained models<br/>
 
  </details>
 
-<br/>
-
 ---
-
-<br/>
-
 
 #### 📑 Data Sources
 - Financial Data - <a href="https://sg.finance.yahoo.com/cryptocurrencies/" target="_blank">Yahoo Finance</a> / <a href="https://pypi.org/project/yfinance/" target="_blank">yfinance</a>
@@ -67,11 +60,16 @@
 
 ---
 
-<br/>
+#### 🧭 In-depth Documentation
+- [Data Curation & Preparation](./data/README.md)
+- [Evaluation of Model Performance](./metrics/README.md)
+
+---
 
 <details>
 <summary>📚 Notebooks Overview</summary>
-
+<br/>
+  
 *Each notebook is prefixed with the chronological order of the analysis pipeline and can be executed as a standalone.*
 <br/>
 
@@ -104,12 +102,7 @@
 
 </details>
 
-<br/>
-
 ---
-
-<br/>
-
 ####  🧰 Languages & Tools
 - Languages <br/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
@@ -127,11 +120,7 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25"/>
   <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25"/>
 
-<br/>
-
 ---
-
-<br/>
 
 #### Contributors ✨
 
@@ -163,11 +152,7 @@
   </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 *This repository is submitted as a project work for Nanyang Technological University's [SC1015- Data Science and Aritificial Intelligence course](https://www.ntu.edu.sg/docs/librariesprovider124/economics-and-data-science/sc1015-introduction-to-data-science-ai.pdf?Status=Master&sfvrsn=b6e8f226_4).*
 
