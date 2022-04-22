@@ -110,48 +110,32 @@
 
 <br/>
 
-####  👥 Contributors 
+#### Contributors ✨
 
-
-[Crystal Cheong](https://github.com/crystalcheong)
-
-- Scraped data in [0_DataScraper.ipynb](./0_DataScraper.ipynb)
-- Contributed to sections in [1_DataAnalysis.ipynb](./1_DataAnalysis.ipynb)
-  - Daily Percentage Change
-  - Scaled Time-Series Visualiation
-  - Scaled Data Correlation
-- Models in [2_UnivariateForecast.ipynb](./2_UnivariateForecast.ipynb), [3_MultivariateForecast.ipynb](./3_MultivariateForecast.ipynb)
-  - Rolling-Forecast ARIMA
-  - XGBRegressor
-  - LSTM
-
-<a href="https://github.com/AmosChong20" target="_blank">Yue Hong</a><br/>
-- Contributed to sections in [1_DataAnalysis.ipynb](./1_DataAnalysis.ipynb)
-  - Stock valuation candlestick plot
-  - Search trend boxplots
-- Presentation Slides
-
-<a href="https://github.com/Jared7333" target="_blank">Jared Chan</a><br/>
-- Script
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://crystalcheong.com"><img src="https://avatars.githubusercontent.com/u/65748007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Crystal Cheong</b></sub></a><br /><a href="https://github.com/crystalcheong/crypto-genie/commits?author=crystalcheong" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/AmosChong20"><img src="https://avatars.githubusercontent.com/u/95435362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AmosChong20</b></sub></a><br /><a href="#content-AmosChong20" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/Jared7333"><img src="https://avatars.githubusercontent.com/u/104131548?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jared7333</b></sub></a><br /><a href="#data-Jared7333" title="Data">🔣</a></td>
+    <td align="center"><a href="http://crystalcheong.com"  target="_blank"><img src="https://avatars.githubusercontent.com/u/65748007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Crystal Cheong</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/AmosChong20" target="_blank"><img src="https://avatars.githubusercontent.com/u/95435362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yue Chong</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Jared7333" target="_blank"><img src="https://avatars.githubusercontent.com/u/104131548?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jared Chan</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Data Collection & Preparation</li>
+      <li>Data Analysis</li>
+      <li>Machine Learning</li>
+      <li>Repository Documentation</li>
+      <li>Presentation Slides</li>
+    </td>
+    <td>
+      <li>Data Analysis</li>
+      <li>Data Visualisations</li>
+      <li>Presentation Slides</li>
+      <li>Video Presentation</li>
+    </td>
+      <td>
+      <li>Machine Learning</li>
+      <li>Presentation Slides</li>
+      <li>Video Presentation</li>
+    </td>
   </tr>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
