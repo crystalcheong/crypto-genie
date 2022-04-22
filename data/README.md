@@ -2,6 +2,8 @@
   Data Curation & Preparation
 </h3>
 
+---
+
 #### 📌 Requirements
 - [x] Availability of historical & latest data
 - [x] From credible and reliable source
