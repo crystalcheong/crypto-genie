@@ -1,5 +1,6 @@
-![Project Cover](https://user-images.githubusercontent.com/65748007/164231809-0d7736b6-e71c-4d8f-9f19-6d4b61ca0821.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65748007/164231809-0d7736b6-e71c-4d8f-9f19-6d4b61ca0821.png" alt="Project Cover"/>
+</p>
 
 #### 📌 Purpose
 <p align="center">

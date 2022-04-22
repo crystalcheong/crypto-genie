@@ -8,8 +8,9 @@
 - [x] Contains relevant variables for manipulation
 
 ---
-![Data Curation and Preparation](https://user-images.githubusercontent.com/65748007/164248322-c5ee7471-9536-4f83-916a-4534df42df1d.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65748007/164248322-c5ee7471-9536-4f83-916a-4534df42df1d.png" alt="Data Curation and Preparation"/>
+</p>
 
 #### 📑 More About Data Sources
 - Financial Data - <a href="https://sg.finance.yahoo.com/cryptocurrencies/" target="_blank">Yahoo Finance</a> / <a href="https://pypi.org/project/yfinance/" target="_blank">yfinance</a>
@@ -67,7 +68,9 @@
 
 <br/>
 
-![BTC-SearchTrend dataset preview](https://user-images.githubusercontent.com/65748007/164257496-417e6cf7-cea2-4f4b-b8ae-2e7f53a7e998.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65748007/164257496-417e6cf7-cea2-4f4b-b8ae-2e7f53a7e998.png" alt="BTC-SearchTrend dataset preview"/>
+</p>
 
 <p align="center">
     Dataframe preview of <a href="./BTC-SearchTrend.csv" target="_blank">BTC-SearchTrend.csv</a>
