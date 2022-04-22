@@ -1,7 +1,4 @@
 <p align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="https://user-images.githubusercontent.com/65748007/164231809-0d7736b6-e71c-4d8f-9f19-6d4b61ca0821.png" alt="Project Cover"/>
 </p>
 
@@ -14,23 +11,54 @@
 
 <br/>
 
-#### 🧭 Table of Contents
-1. [Data Curation & Preparation](./data/README.md)
-2. [Evaluation of Model Performance](./metrics/README.md)
+#### 🛠️ Installation and Set Up
+
+  - Clone repository
+    ```
+    git clone https://github.com/crystalcheong/crypto-genie.git
+    ```
+
+  - Install dependencies with [pip](https://pip.pypa.io/en/stable/)
+    ```
+    $ pip install -r requirements.txt
+    ```
+
+---
+<br/>
+
+<details>
+<summary>📂 Project Structure</summary>
+
+```
+📦crypto-genie
+ ┣ 📂data
+ ┃ ┣ 📂searchTrends
+ ┃ ┣ 📜BTC-SearchTrend.csv
+ ┃ ┗ 📜README.md
+ ┣ 📂metrics
+ ┃ ┣ 📜README.md
+ ┣ 📂models
+ ┣ 📜0_DataScraper.ipynb
+ ┣ 📜1_DataAnalysis.ipynb
+ ┣ 📜2_UnivariateForecast.ipynb
+ ┣ 📜3_MultivariateForecast.ipynb
+ ┣ 📜README.md
+ ┗ 📜requirements.txt
+ ```
+
+
+ `/data` - stores all the collected data to be utilized <br/>
+ `/metrics` - contains the exported measurement of accuracy & efficacy<br/> 
+ `/models` - contains the exported pre-trained models<br/>
+
+ </details>
+
+<br/>
+
 ---
 
 <br/>
 
-#### 🛠️ Installation
-
-- [pip](https://pip.pypa.io/en/stable/)
-
-  ```
-  $ pip install -r requirements.txt
-  ```
-
----
-<br/>
 
 #### 📑 Data Sources
 - Financial Data - <a href="https://sg.finance.yahoo.com/cryptocurrencies/" target="_blank">Yahoo Finance</a> / <a href="https://pypi.org/project/yfinance/" target="_blank">yfinance</a>
@@ -41,38 +69,8 @@
 
 <br/>
 
-####  🔍 Algorithms & Machine Learning Models
-- Rolling-Forecast ARIMA
-- XGBRegressor
-- LSTM
-
-
----
-
-<br/>
-
-####  🧰 Languages & Tools
-- Languages <br/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
-
-
-- Libraries, Packages <br/>
-  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25"/>
-  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" height="25"/>
-
-- Tools, IDE <br/>
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25"/>
-  <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25"/>
-
----
-
-<br/>
-
-####  📚 Notebooks Overview 
+<details>
+<summary>📚 Notebooks Overview</summary>
 
 *Each notebook is prefixed with the chronological order of the analysis pipeline and can be executed as a standalone.*
 <br/>
@@ -104,6 +102,31 @@
   >   - LSTM
   > - Summarises and compares the performance of all previously ran models
 
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+####  🧰 Languages & Tools
+- Languages <br/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
+
+
+- Libraries, Packages <br/>
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25"/>
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" height="25"/>
+
+- Tools, IDE <br/>
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25"/>
+  <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25"/>
+
 <br/>
 
 ---
@@ -124,18 +147,27 @@
       <li>Data Analysis</li>
       <li>Machine Learning</li>
       <li>Repository Documentation</li>
-      <li>Presentation Slides</li>
+      <li>Presentation Slides & Script</li>
     </td>
     <td>
       <li>Data Analysis</li>
       <li>Data Visualisations</li>
-      <li>Presentation Slides</li>
-      <li>Video Presentation</li>
+      <li>Presentation Slides & Script</li>
+      <li>Video Presenter</li>
     </td>
       <td>
       <li>Machine Learning</li>
-      <li>Presentation Slides</li>
-      <li>Video Presentation</li>
+      <li>Presentation Slides & Script</li>
+      <li>Video Presenter</li>
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+<br/>
+
+*This repository is submitted as a project work for Nanyang Technological University's [SC1015- Data Science and Aritificial Intelligence course](https://www.ntu.edu.sg/docs/librariesprovider124/economics-and-data-science/sc1015-introduction-to-data-science-ai.pdf?Status=Master&sfvrsn=b6e8f226_4).*
+
