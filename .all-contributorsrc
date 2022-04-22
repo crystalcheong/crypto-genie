@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AmosChong20",
+      "name": "AmosChong20",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95435362?v=4",
+      "profile": "https://github.com/AmosChong20",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "crypto-genie",
+  "projectOwner": "crystalcheong",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
