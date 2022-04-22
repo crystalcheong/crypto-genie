@@ -116,9 +116,9 @@
   - XGBRegressor
   - LSTM
 
-<a href="https://github.com/" target="_blank">Yue Hong</a><br/>
+<a href="https://github.com/AmosChong20" target="_blank">Yue Hong</a><br/>
 - Contributed to Exploratory Data Analysis part (Visualisation)
 - Presentation Slides
 
-<a href="https://github.com/" target="_blank">Jared Chan</a><br/>
+<a href="https://github.com/Jared7333" target="_blank">Jared Chan</a><br/>
 - Script
