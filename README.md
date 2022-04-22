@@ -126,7 +126,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="http://crystalcheong.com"  target="_blank"><img src="https://avatars.githubusercontent.com/u/65748007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Crystal Cheong</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/crystalcheong"  target="_blank"><img src="https://avatars.githubusercontent.com/u/65748007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Crystal Cheong</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/AmosChong20" target="_blank"><img src="https://avatars.githubusercontent.com/u/95435362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yue Chong</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Jared7333" target="_blank"><img src="https://avatars.githubusercontent.com/u/104131548?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jared Chan</b></sub></a><br /></td>
   </tr>
