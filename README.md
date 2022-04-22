@@ -74,31 +74,18 @@
 *Each notebook is prefixed with the chronological order of the analysis pipeline and can be executed as a standalone.*
 <br/>
 
-<div style="display:flex; flex-direction:row; justify-content:space-between">
-    <p>‣&nbsp;<a href="./0_DataScraper.ipynb" target="_blank">Data Scraper</a></p>
-    <p>View on <a href="https://githubtocolab.com/crystalcheong/crypto-genie/blob/main/0_DataScraper.ipynb" ><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25" style="vertical-align:middle" /></a></p>
-</div>
+- [Data Scraper](./0_DataScraper.ipynb)
 
   > - Retrieves stock information on <a href="https://sg.finance.yahoo.com/quote/BTC-USD/" target="_blank">Bitcoin (BTC-USD)</a> from <a href="https://sg.finance.yahoo.com/cryptocurrencies/" target="_blank">Yahoo Finance</a>
   > - Annual archive of <a href="https://trends.google.com/trends/?geo=SG" target="_blank">Google Search Trends</a> using the <a href="https://pypi.org/project/pytrends/" target="_blank">pytrends</a> package 
   > - Generate and export [BTC-SearchTrend.csv](./data/BTC-SearchTrend.csv) from the successful merger of above-mentioned datasets
 
-<br/>
-
-<div style="display:flex; flex-direction:row; justify-content:space-between">
-    <p>‣&nbsp;<a href="./1_DataAnalysis.ipynb" target="_blank">Data Analysis</a></p>
-    <p>View on <a href="https://githubtocolab.com/crystalcheong/crypto-genie/blob/main/1_DataAnalysis.ipynb"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25" style="vertical-align:middle" /></a></p>
-</div>
+- [Data Analysis](./1_DataAnalysis.ipynb)
 
   > - Displays dataset overview and checks for any null values
   > - Exploratory data analysis on the [BTC-SearchTrend.csv](./data/BTC-SearchTrend.csv) dataset
 
-<br/>
-
-<div style="display:flex; flex-direction:row; justify-content:space-between">
-    <p>‣&nbsp;<a href="./2_UnivariateForecast.ipynb" target="_blank">Univariate Forecast</a></p>
-    <p>View on <a href="https://githubtocolab.com/crystalcheong/crypto-genie/blob/main/2_UnivariateForecast.ipynb"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25" style="vertical-align:middle" /></a></p>
-</div>
+- [Univariate Forecast](./2_UnivariateForecast.ipynb)
 
   > - Utilises **one** stock ticker variable [(OPEN / CLOSE / HIGH / LOW)](./data/README.md) as the model data
   > - Initialise, train and predict <a href="https://sg.finance.yahoo.com/quote/BTC-USD/" target="_blank">Bitcoin (BTC-USD)</a> valuation with the following machine learning model(s):
@@ -107,18 +94,14 @@
   >   - LSTM
   > - Summarises and compares the performance of all previously ran models
 
-<br/>
-
-<div style="display:flex; flex-direction:row; justify-content:space-between">
-    <p>‣&nbsp;<a href="./3_MultivariateForecast.ipynb" target="_blank">Multivariate Forecast</a></p>
-    <p>View on <a href="https://githubtocolab.com/crystalcheong/crypto-genie/blob/main/3_MultivariateForecast.ipynb"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25" style="vertical-align:middle" /></a></p>
-</div>
+- [Multivariate Forecast](./3_MultivariateForecast.ipynb)
 
   > - Utilises **all** stock ticker and search trend variables as the model data
   > - Initialise, train and predict <a href="https://sg.finance.yahoo.com/quote/BTC-USD/" target="_blank">Bitcoin (BTC-USD)</a> valuation with the following machine learning model(s):
   >   - LSTM
   > - Summarises and compares the performance of all previously ran models
 
+<br/>
 
 ---
 
