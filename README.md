@@ -18,6 +18,18 @@
 
 <br/>
 
+#### 🛠️ Installation
+
+- [pip](https://pip.pypa.io/en/stable/)
+
+  ```
+  $ pip install -r requirements.txt
+  ```
+
+---
+
+<br/>
+
 #### 📑 Data Sources
 - Financial Data - <a href="https://sg.finance.yahoo.com/cryptocurrencies/" target="_blank">Yahoo Finance</a> / <a href="https://pypi.org/project/yfinance/" target="_blank">yfinance</a>
 - Search Trends Data - <a href="https://trends.google.com/trends/?geo=SG" target="_blank">Google Trends</a> / <a href="https://pypi.org/project/pytrends/" target="_blank">pytrends</a>
