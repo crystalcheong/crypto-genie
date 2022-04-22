@@ -160,7 +160,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AmosChong20"><img src="https://avatars.githubusercontent.com/u/95435362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AmosChong20</b></sub></a><br /><a href="#data-AmosChong20" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/AmosChong20"><img src="https://avatars.githubusercontent.com/u/95435362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AmosChong20</b></sub></a><br /><a href="#data-AmosChong20" title="Data">🔣</a> <a href="#content-AmosChong20" title="Content">🖋</a></td>
   </tr>
 </table>
 
