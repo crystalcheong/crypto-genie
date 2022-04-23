@@ -104,6 +104,14 @@
 </details>
 
 ---
+
+#### 🗝️ Project Takeaways
+- Interpret stock information
+- Develop & evaluate time series forecasting machine learning models
+- Utilized external Python libraries such as `plotly`, `statsmodels` and `tensorflow` 
+- Collaboration on [Google Colab](https://colab.research.google.com/) and git repository management with [Github](https://github.com/)
+
+---
 ####  🧰 Languages & Tools
 - Languages <br/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
@@ -154,6 +162,21 @@
 </table>
 
 ---
+
+<details>
+<summary>💡 References</summary>
+<br/>
+  
+* [ARIMA Model for Time Series Forecasting](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/#:~:text=Rolling%20Forecast%20ARIMA%20Model,to%20make%20predictions%20as%20arguments.)
+* [Forecasting BTC](https://www.kaggle.com/code/aaronfloreani/forecasting-btc-arima-xgboost-prophet-lstm/notebook)
+* [XGBoost for Time Series Forecasting](https://machinelearningmastery.com/xgboost-for-time-series-forecasting/#:~:text=XGBoost%20is%20an%20implementation%20of,model%20for%20time%20series%20forecasting.)
+  [Intro to Long Short-Term Memory (LSTM)](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/)
+* [LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
+* [Multi-Step LSTM Time Series Forecasting Models](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
+* [Import & Concat multiple CSV](https://stackoverflow.com/a/55436079)
+
+  
+</details>
 
 *This repository is submitted as a project work for Nanyang Technological University's [SC1015- Data Science and Artificial Intelligence course](https://www.ntu.edu.sg/docs/librariesprovider124/economics-and-data-science/sc1015-introduction-to-data-science-ai.pdf?Status=Master&sfvrsn=b6e8f226_4).*
 
