@@ -106,10 +106,14 @@
 ---
 
 #### 🗝️ Project Takeaways
-- Interpret stock information
-- Develop & evaluate time series forecasting machine learning models
-- Utilized external Python libraries such as `plotly`, `statsmodels` and `tensorflow` 
-- Collaboration on [Google Colab](https://colab.research.google.com/) and git repository management with [Github](https://github.com/)
+*In conclusion, the inclusion of media hype from <a href="https://trends.google.com/trends/?geo=SG" target="_blank">Google Trends</a> resulted in a more accurate multivariate forecasting.*
+*That said, as the <a href="https://trends.google.com/trends/?geo=SG" target="_blank">Google Trends</a> search percentile is not the only definitive measurement of media hype, the accuracy and efficacy of the prediction models can be further enhanced by the integration of a multi-faceted data curation from other sources such as the users' sentiments from [Reddit](https://www.reddit.com/) and [Twitter](https://twitter.com/?lang=en.)*
+
+- Learning Outcomes
+  - Interpret stock information
+  - Develop & evaluate time series forecasting machine learning models
+  - Utilized external Python libraries such as `plotly`, `statsmodels` and `tensorflow` 
+  - Collaboration on [Google Colab](https://colab.research.google.com/) and git repository management with [Github](https://github.com/)
 
 ---
 ####  🧰 Languages & Tools
