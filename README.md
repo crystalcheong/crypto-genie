@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65748007/164231809-0d7736b6-e71c-4d8f-9f19-6d4b61ca0821.png" alt="Project Cover"/>
-</p>
+### SC1015 Data Science Project — *Crypto-Genie*
 
-#### 📌 Purpose
+> This project aims to effectively mitigate the violatility of cryptocurrency investment by evaluating the media hype from <a href="https://trends.google.com/trends/?geo=SG" target="_blank">Google Trends</a> in our prediction models.
+
+<br/>
+
 <p align="center">
-  This project aims to effectively mitigate the violatility of cryptocurrency investment with machine learning models.
+  <img src="https://user-images.githubusercontent.com/65748007/164874137-06790bfc-6efe-4bd2-82df-29632665f7a3.png" alt="Project Cover"/>
 </p>
 
 ---
