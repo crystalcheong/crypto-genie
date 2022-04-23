@@ -111,7 +111,10 @@
 
 - Learning Outcomes
   - Interpret stock information
-  - Develop & evaluate time series forecasting machine learning models
+  - Develop & evaluate time series forecasting machine learning models such as 
+    - Rolling-Forecast ARIMA
+    - XGBRegressor
+    - LSTM
   - Utilized external Python libraries such as `plotly`, `statsmodels` and `tensorflow` 
   - Collaboration on [Google Colab](https://colab.research.google.com/) and git repository management with [Github](https://github.com/)
 
