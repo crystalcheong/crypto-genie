@@ -1,6 +1,6 @@
 ### SC1015 Data Science Project — *Crypto-Genie*
 
-> This project aims to effectively mitigate the violatility of cryptocurrency investment by evaluating the media hype from <a href="https://trends.google.com/trends/?geo=SG" target="_blank">Google Trends</a> in our prediction models.
+> This project aims to effectively mitigate the volatility of cryptocurrency investment by evaluating the media hype from <a href="https://trends.google.com/trends/?geo=SG" target="_blank">Google Trends</a> in our prediction models.
 
 <br/>
 
@@ -155,5 +155,5 @@
 
 ---
 
-*This repository is submitted as a project work for Nanyang Technological University's [SC1015- Data Science and Aritificial Intelligence course](https://www.ntu.edu.sg/docs/librariesprovider124/economics-and-data-science/sc1015-introduction-to-data-science-ai.pdf?Status=Master&sfvrsn=b6e8f226_4).*
+*This repository is submitted as a project work for Nanyang Technological University's [SC1015- Data Science and Artificial Intelligence course](https://www.ntu.edu.sg/docs/librariesprovider124/economics-and-data-science/sc1015-introduction-to-data-science-ai.pdf?Status=Master&sfvrsn=b6e8f226_4).*
 
