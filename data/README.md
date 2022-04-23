@@ -19,7 +19,7 @@
 
    *Scraped from **yfinance** - a Python library that fetches current and historical stock market price data from Yahoo Finance, and so much more.*
 
-    > [BTC-SearchTrend.csv](./BTC-SearchTrend.csv)
+    > [BTC-SearchTrend.csv](./BTC-SearchTrend.csv) (Partial)
 
     COLUMN | DESCRIPTION | TYPE
     :------------ | :-------------| :-------------| 
@@ -29,8 +29,6 @@
     HIGH| the highest price on that day | float64
     LOW | the lowest price on that day | float64
     VOLUME | the number of shares traded | int64
-    BITCOIN | daily mean search percentile index for term 'bitcoin' | int64
-    CRYPTOCURRENCY | daily mean search percentile index for term 'cryptocurrency' | int64
 
 <br/>
 
@@ -68,7 +66,19 @@
 - By-product of the *inner join* merger with [trend-2017_2021.csv](./searchTrends/trend-2017_2021.csv) using the `DATE` value
     - .merge() = merge/join datasets
 
-<br/>
+   
+    COLUMN | DESCRIPTION | TYPE
+  :------------ | :-------------| :-------------| 
+  DATE| shown in YYYY-MM-DD format | DatetimeIndex
+  OPEN | the price at the market start | float64
+  CLOSE | the last price of the day | float64
+  HIGH| the highest price on that day | float64
+  LOW | the lowest price on that day | float64
+  VOLUME | the number of shares traded | int64
+  BITCOIN | daily mean search percentile index for term 'bitcoin' | int64
+  CRYPTOCURRENCY | daily mean search percentile index for term 'cryptocurrency' | int64
+
+<hr/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65748007/164257496-417e6cf7-cea2-4f4b-b8ae-2e7f53a7e998.png" alt="BTC-SearchTrend dataset preview"/>
